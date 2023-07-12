@@ -4,8 +4,6 @@
   My first project after learning HTML and CSS 
 </h4>
 
-<h4> 
-  <button> Arnab Biswas
-    <a> https://github.com/CoderArnab </a>
-</button>
-</h4>
+<p>
+  Made with LOVE by - Arnab Biswas
+</p>
