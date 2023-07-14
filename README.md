@@ -7,3 +7,6 @@
 <p>
   Made with LOVE by - Arnab Biswas
 </p>
+<p>
+  Follow me on INSTAGRAM -  @arnab_biswas__
+</p>
